@@ -1,0 +1,196 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m" xmlns:f="sap.ui.layout.form" controllerName="vizchart.view.S1"
+	xmlns:l="sap.ui.layout" xmlns:c="sap.ui.commons" xmlns:sc="sap.suite.ui.commons" xmlns:viz="sap.viz.ui5.controls"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+
+	<Page title=" VIZ Charts">
+	
+		<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L12 M12 S12" >
+					<Panel id="linecharts" width="100%" height="100%">
+					</Panel>
+
+					<!-- <Panel id="piecharts" width="100%" height="100%">
+					</Panel> -->
+				</l:Grid>
+			</content>
+		</Panel>
+		
+		<!-- <Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="dountcharts" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					<Panel id="barcharts" width="100%" height="100%">
+					</Panel>
+				</l:Grid>
+			</content>
+		</Panel>
+		
+		
+		<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="columncharts" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="bubblecharts" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel>
+		
+		
+		<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="combinationcharts" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="scattercharts" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel>
+		
+		
+		<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="timebubblecharts" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="stackvbarcharts" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel>
+		
+		
+		<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="stackvbarpcharts" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="dualbarcharts" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel>
+		
+		
+		
+			<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="duallinepcharts" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="dualcombinationcharts" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel>
+		
+		
+		
+		
+			<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="dualstackcolumn" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="dualstackcolumnp" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel>
+
+
+
+
+			<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="dualcolumn" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="area" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel>
+
+
+
+	<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="areap" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="horizontalarea" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel>
+		
+		
+		
+		<Panel width="100%">
+			<content>
+				<l:Grid defaultSpan="L6 M6 S6" class="sapUiSmallMarginTop">
+					<Panel id="horizontalareap" width="100%"
+						height="100%">
+						
+						
+					</Panel>
+
+					 <Panel id="" width="100%" height="100%">
+					</Panel> 
+				</l:Grid>
+			</content>
+		</Panel> -->
+
+
+		<!-- <l:Grid id="idTiles"> </l:Grid> <l:Grid id="idGraph"> </l:Grid> -->
+
+
+
+
+
+
+
+	</Page>
+</core:View>
